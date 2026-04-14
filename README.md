@@ -4,13 +4,15 @@
 This project predicts social media addiction using machine learning techniques.
 
 ## ⚙️ Technologies Used
+- RandomForestClassifier
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 
 ## 📊 Dataset
-Describe your dataset here (source, features, etc.)
+Data set from https://www.kaggle.com/code/pratyushpuri/student-social-media-addiction-analysis
+
 
 ## 🚀 How to Run
 ```bash
